@@ -8,5 +8,6 @@
         <page name='IsContainLetters'/>
         <page name='SuBak'/>
         <page name='ConvertStringToInt'/>
+        <page name='SumOfDivisor'/>
     </pages>
 </playground>
