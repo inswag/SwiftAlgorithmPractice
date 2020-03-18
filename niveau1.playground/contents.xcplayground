@@ -7,5 +7,6 @@
         <page name='FindPnYInString'/>
         <page name='IsContainLetters'/>
         <page name='SuBak'/>
+        <page name='ConvertStringToInt'/>
     </pages>
 </playground>
