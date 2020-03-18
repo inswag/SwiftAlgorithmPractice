@@ -6,5 +6,6 @@
         <page name='FindMrKimInSeoul'/>
         <page name='FindPnYInString'/>
         <page name='IsContainLetters'/>
+        <page name='SuBak'/>
     </pages>
 </playground>
