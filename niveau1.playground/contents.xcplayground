@@ -11,5 +11,6 @@
         <page name='SumOfDivisor'/>
         <page name='PrimeNumber'/>
         <page name='FindRandomIndexInArray'/>
+        <page name='ArrayByDivisor'/>
     </pages>
 </playground>
