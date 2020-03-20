@@ -12,5 +12,7 @@
         <page name='PrimeNumber'/>
         <page name='FindRandomIndexInArray'/>
         <page name='ArrayByDivisor'/>
+        <page name='FindDateInLeapYear'/>
+        <page name='DescendingString'/>
     </pages>
 </playground>
