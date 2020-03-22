@@ -14,5 +14,7 @@
         <page name='ArrayByDivisor'/>
         <page name='FindDateInLeapYear'/>
         <page name='DescendingString'/>
+        <page name='Caesar Cipher'/>
+        <page name='Untitled Page'/>
     </pages>
 </playground>
