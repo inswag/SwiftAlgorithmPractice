@@ -22,6 +22,7 @@
         <page name='CrainKaKao2019'/>
         <page name='Failure rate KaKao Blind 2019'/>
         <page name='Rectangle Star'/>
-        <page name='정수 제곱근 판별'/>
+        <page name='정수 제곱근 판별'/>
+        <page name='Remove Min Number'/>
     </pages>
 </playground>
