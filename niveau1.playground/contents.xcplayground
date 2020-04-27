@@ -24,5 +24,8 @@
         <page name='Rectangle Star'/>
         <page name='정수 제곱근 판별'/>
         <page name='Remove Min Number'/>
+        <page name='Addition of Matrix'/>
+        <page name='x만큼 간격이 있는 n개의 숫자'/>
+        <page name='이상한 문자 만들기'/>
     </pages>
 </playground>
