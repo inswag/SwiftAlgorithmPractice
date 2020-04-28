@@ -27,6 +27,6 @@
         <page name='Addition of Matrix'/>
         <page name='x만큼 간격이 있는 n개의 숫자'/>
         <page name='이상한 문자 만들기'/>
-        <page name='Collatz&apos;s supposition'/>
+        <page name='Collatz&apos;s conjecture'/>
     </pages>
 </playground>
