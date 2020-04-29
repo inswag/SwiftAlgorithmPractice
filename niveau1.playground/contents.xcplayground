@@ -29,5 +29,6 @@
         <page name='이상한 문자 만들기'/>
         <page name='Collatz&apos;s conjecture'/>
         <page name='Harshad number'/>
+        <page name='GCD &amp; LCM'/>
     </pages>
 </playground>
