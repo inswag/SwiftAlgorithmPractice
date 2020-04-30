@@ -30,5 +30,6 @@
         <page name='Collatz&apos;s conjecture'/>
         <page name='Harshad number'/>
         <page name='GCD &amp; LCM'/>
+        <page name='budget'/>
     </pages>
 </playground>
