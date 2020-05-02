@@ -31,5 +31,6 @@
         <page name='Harshad number'/>
         <page name='GCD &amp; LCM'/>
         <page name='budget'/>
+        <page name='Dart Game'/>
     </pages>
 </playground>
