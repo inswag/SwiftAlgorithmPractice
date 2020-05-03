@@ -32,5 +32,6 @@
         <page name='GCD &amp; LCM'/>
         <page name='budget'/>
         <page name='Dart Game'/>
+        <page name='Secret Map'/>
     </pages>
 </playground>
