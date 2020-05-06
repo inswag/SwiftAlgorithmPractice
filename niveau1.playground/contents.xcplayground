@@ -33,5 +33,6 @@
         <page name='budget'/>
         <page name='Dart Game'/>
         <page name='Secret Map'/>
+        <page name='체육복'/>
     </pages>
 </playground>
