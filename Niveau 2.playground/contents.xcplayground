@@ -4,5 +4,6 @@
         <page name='기능개발'/>
         <page name='Tower (Stack and Queue)'/>
         <page name='Tuple (2019 Kakao)'/>
+        <page name='Bad User (2019 Kakao)'/>
     </pages>
 </playground>
