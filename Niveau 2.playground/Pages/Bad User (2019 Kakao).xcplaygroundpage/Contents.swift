@@ -76,7 +76,6 @@ func solution(_ user_id:[String], _ banned_id:[String]) -> Int {
     }
 
     
-    
     return sameCountArr.reduce(1, *)
 }
 
