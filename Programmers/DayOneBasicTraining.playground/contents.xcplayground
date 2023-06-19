@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' buildActiveScheme='true' importAppTypes='true'>
+    <pages>
+        <page name='문자열 출력하기'/>
+        <page name='a와 b 출력하기'/>
+        <page name='문자열 반복해서 출력하기 '/>
+        <page name='대소문자 바꿔서 출력하기 '/>
+        <page name='특수문자 출력하기 '/>
+    </pages>
+</playground>
