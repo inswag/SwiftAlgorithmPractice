@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' buildActiveScheme='true' importAppTypes='true'>
+    <pages>
+        <page name='문자열 섞기'/>
+        <page name='문자 리스트를 문자열로 변환하기'/>
+        <page name='문자열 곱하기'/>
+        <page name='더 크게 합치기'/>
+        <page name='두 수의 연산값 비교하기'/>
+    </pages>
+</playground>
