@@ -9,6 +9,7 @@
         <page name='n의 배수'/>
         <page name='공배수'/>
         <page name='홀짝에 따라 다른 값 반환하기'/>
-        <page name='조건 문자열'/>
+        <page name='조건 문자열'/>
+        <page name='flag에 따라 다른 값 반환하기'/>
     </pages>
 </playground>
