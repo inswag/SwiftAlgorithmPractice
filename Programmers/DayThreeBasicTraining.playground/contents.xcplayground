@@ -4,6 +4,10 @@
         <page name='두 수의 합'/>
         <page name='두 수의 차'/>
         <page name='두 수의 곱'/>
-        <page name='몫 구하기'/>
+        <page name='몫 구하기'/>
+        <page name='두 수의 나눗셈'/>
+        <page name='숫자 비교하기'/>
+        <page name='분수의 덧셈'/>
+        <page name='배열 두 배 만들기'/>
     </pages>
 </playground>
