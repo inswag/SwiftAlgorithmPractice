@@ -8,6 +8,10 @@
         <page name='두 수의 나눗셈'/>
         <page name='숫자 비교하기'/>
         <page name='분수의 덧셈'/>
-        <page name='배열 두 배 만들기'/>
+        <page name='배열 두 배 만들기'/>
+        <page name='나머지 구하기'/>
+        <page name='중앙값 구하기'/>
+        <page name='최빈값 구하기'/>
+        <page name='짝수는 싫어요'/>
     </pages>
 </playground>
