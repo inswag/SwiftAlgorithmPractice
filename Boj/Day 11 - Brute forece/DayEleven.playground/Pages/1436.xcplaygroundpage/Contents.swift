@@ -2,24 +2,35 @@
 
 import Foundation
 
-let series = Int(readLine()!) ?? 0
+//let series = Int(readLine()!) ?? 0
+let series = 500
 var isFind: Bool = false
-var count: Int = 0
+var count: Int = 665
 var findCount: Int = 0
-var seriesName: String = ""
 
 while !isFind {
     count += 1
     
-    if "\(count)".contains("666") {
-        findCount += 1
-        seriesName = "\(count)"
-        
-        if series == findCount {
-            isFind = true
+    var possibleCount: Int = 0
+    
+    for i in String(count) {
+        if i == "6" {
+            possibleCount += 1
+            
+            if possibleCount == 3 {
+                break
+            }
+        } else {
+            possibleCount = 0
         }
     }
     
+    if possibleCount == 3 {
+        findCount += 1
+    }
+    
+    if series == findCount {
+        isFind = true
+        print("\(count)")
+    }
 }
-
-print(seriesName)
