@@ -6,5 +6,10 @@
         <page name='문자열 뒤의 n글자'/>
         <page name='접미사 배열'/>
         <page name='접미사인지 확인하기'/>
+        <page name='문자열 앞의 n글자'/>
+        <page name='접두사인지 확인하기'/>
+        <page name='문자열 뒤집기'/>
+        <page name='세로 읽기'/>
+        <page name='qr code'/>
     </pages>
 </playground>
