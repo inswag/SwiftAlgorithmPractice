@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' buildActiveScheme='true' importAppTypes='true'>
+    <pages>
+        <page name='문자 개수 세기'/>
+        <page name='배열 만들기 1'/>
+        <page name='글자 지우기'/>
+        <page name='카운트 다운'/>
+        <page name='가까운 1 찾기'/>
+    </pages>
+</playground>
