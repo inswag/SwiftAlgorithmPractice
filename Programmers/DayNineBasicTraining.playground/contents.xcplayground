@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' buildActiveScheme='true' importAppTypes='true'>
+    <pages>
+        <page name='홀수 vs 짝수'/>
+        <page name='5명씩'/>
+        <page name='할 일 목록'/>
+        <page name='수열과 구간 쿼리 1'/>
+        <page name='n보다 커질 때까지 더하기'/>
+    </pages>
+</playground>
