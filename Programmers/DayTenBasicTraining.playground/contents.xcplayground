@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' buildActiveScheme='true' importAppTypes='true'>
+    <pages>
+        <page name='대문자로 바꾸기'/>
+        <page name='소문자로 바꾸기'/>
+        <page name='배열에서 문자열 대소문자 변환하기'/>
+        <page name='A 강조하기'/>
+        <page name='특정한 문자를 대문자로 바꾸기'/>
+        <page name='특정 문자열로 끝나는 가장 긴 부분 문자열 찾기'/>
+        <page name='문자열이 몇 번 등장하는지 세기'/>
+        <page name='ad 제거하기'/>
+        <page name='공백으로 구분하기 1'/>
+        <page name='공백으로 구분하기 2'/>
+    </pages>
+</playground>
