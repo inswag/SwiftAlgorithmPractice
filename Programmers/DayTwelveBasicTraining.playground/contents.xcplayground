@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' buildActiveScheme='true' importAppTypes='true'>
+    <pages>
+        <page name='배열 비교하기'/>
+        <page name='배열의 길이를 2의 거듭제곱으로 만들기'/>
+    </pages>
+</playground>
