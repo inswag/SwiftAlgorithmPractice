@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' buildActiveScheme='true' importAppTypes='true'>
+    <pages>
+        <page name='커피 심부름'/>
+        <page name='그림 확대'/>
+        <page name='조건에 맞게 수열 변환하기 3'/>
+        <page name='I로 만들기'/>
+        <page name='특별한 이차원 배열 1'/>
+    </pages>
+</playground>
