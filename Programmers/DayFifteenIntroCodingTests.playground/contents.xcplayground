@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' buildActiveScheme='true' importAppTypes='true'>
+    <pages>
+        <page name='두 수의 곱'/>
+        <page name='나머지 구하기'/>
+        <page name='두 수의 차'/>
+        <page name='몫 구하기'/>
+        <page name='숫자 비교하기'/>
+        <page name='나이 출력'/>
+        <page name='두 수의 합'/>
+        <page name='두 수의 나눗셈'/>
+        <page name='각도기'/>
+    </pages>
+</playground>
