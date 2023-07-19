@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' buildActiveScheme='true' importAppTypes='true'>
+    <pages>
+        <page name='삼각형의 완성조건 1'/>
+        <page name='자릿수 더하기'/>
+        <page name='숨어있는 숫자의 덧셈 1'/>
+        <page name='문자열안에 문자열'/>
+        <page name='짝수는 싫어요'/>
+        <page name='제곱수 판별하기'/>
+        <page name='세균 증식'/>
+        <page name='배열 뒤집기'/>
+        <page name='아이스 아메리카노'/>
+        <page name='옷가게 할인 받기'/>
+        <page name='배열 두 배 만들기'/>
+    </pages>
+</playground>
