@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' buildActiveScheme='true' importAppTypes='true'>
+    <pages>
+        <page name='외계행성의 나이'/>
+        <page name='인덱스 바꾸기'/>
+        <page name='배열 회전시키기'/>
+        <page name='피자 나눠 먹기 2'/>
+        <page name='약수 구하기'/>
+        <page name='369게임'/>
+        <page name='숫자 찾기'/>
+        <page name='문자열 정렬하기 2'/>
+        <page name='합성수 찾기'/>
+        <page name='중복된 문자 제거'/>
+    </pages>
+</playground>
