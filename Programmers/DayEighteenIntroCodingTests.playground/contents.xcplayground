@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' buildActiveScheme='true' importAppTypes='true'>
+    <pages>
+        <page name='컨트롤 제트'/>
+        <page name='소인수분해'/>
+        <page name='7의 개수'/>
+        <page name='공 던지기'/>
+        <page name='잘라서 배열로 저장하기'/>
+        <page name='영어가 싫어요'/>
+        <page name='문자열 계산하기'/>
+        <page name='구슬을 나누는 경우의 수'/>
+        <page name='외계어 사전'/>
+        <page name='삼각형의 완성조건 2'/>
+    </pages>
+</playground>
