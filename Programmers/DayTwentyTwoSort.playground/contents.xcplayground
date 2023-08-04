@@ -3,5 +3,6 @@
     <pages>
         <page name='k번째 수'/>
         <page name='가장 큰 수'/>
+        <page name='H-Index'/>
     </pages>
 </playground>
