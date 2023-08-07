@@ -1,2 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<playground version='6.0' target-platform='ios' buildActiveScheme='true' importAppTypes='true'/>
+<playground version='6.0' target-platform='ios' buildActiveScheme='true' importAppTypes='true'>
+    <pages>
+        <page name='Lv1-최소직사각형'/>
+        <page name='Lv1-모의고사'/>
+        <page name='Lv2-소수 찾기'/>
+    </pages>
+</playground>
