@@ -3,6 +3,9 @@
     <pages>
         <page name='그래프 개념'/>
         <page name='트리 개념'/>
+        <page name='Heap'/>
+        <page name='Queue'/>
+        <page name='BFS 개념'/>
         <page name='DFS 개념'/>
     </pages>
 </playground>
